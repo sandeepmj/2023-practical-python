@@ -3,6 +3,6 @@
 .DS_Store
 
 homework/.DS_Store
-homework/*checkpoint.ipynb
+homework/checkpoints.ipynb
 Demos/.DS_Store
-Demos/*checkpoint.ipynb
+Demos/*checkpoints.ipynb
